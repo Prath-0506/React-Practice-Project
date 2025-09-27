@@ -1,0 +1,1 @@
+A simple one-page React project that displays a list of movies and allows users to filter them by genre using buttons. The app uses only **map** to render the movie list and **filter** to display selected categories like **All, Action, Horror, and Sci-Fi**. It’s a minimal project to practice basic React state management and list rendering.
